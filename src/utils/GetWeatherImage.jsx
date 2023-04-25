@@ -33,6 +33,5 @@ export default function GetWeatherImage(weather){
             break;
     }
 
-    console.log(weather)
     return weatherImage
 }
